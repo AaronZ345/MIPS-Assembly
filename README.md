@@ -1,5 +1,6 @@
 # MIPS-Assembly
-a small MIPS Assembly with a graphical user Interface
+a small MIPS Assembly with a graphical user Interface.
+
 
 **实验平台**：python3.6 + pyQT5
 **实验内容**：mips汇编器，反汇编器，模拟器（调试模式）
