@@ -19,8 +19,3 @@
    ![Alt text](./md_image/3.png)
 4. 调试模式
    ![Alt text](./md_image/4.png)
-
----
-**具体细节请参见实验报告**
-
----
